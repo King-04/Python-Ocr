@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 #read image
-img = cv2.imread('inv1.jpg') 
+img = cv2.imread(image) #image to read from
 
 #preprocessing
 
