@@ -4,7 +4,7 @@ Optical character recognition (OCR) built with tesseract engine
 ## Image 
 ![Initial image](https://github.com/King-04/Python-Ocr/blob/main/reci.jpg?raw=true)
 
-## Bounding boxes arond identified text
+## Bounding boxes around identified text
 ![After image](https://github.com/King-04/Python-Ocr/blob/main/img_screenshot_04.12.2021.png?raw=true)
 
 ## Text retrieved
